@@ -320,19 +320,6 @@ x=results_ARIMA.forecast(steps=365)
 x
 
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
